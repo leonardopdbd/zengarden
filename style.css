@@ -2,7 +2,8 @@
 body {
     max-width: 1200px; /* Definindo um tamanho fixo para a página inteira */
     margin: 0 auto; /* Centralizar a página */
-    font-family: sans-serif; /* Definindo uma fonte do tipo sans-serif */
+    font-family: Helvetica,sans-serif; /* Definindo uma fonte do tipo sans-serif */
+    
 }
 
 p {
